@@ -3,7 +3,7 @@
 ## Podstawa zaliczenia przedmiotu
 
 - Obecność na zajęciach (max 2 nieobecności),
-- Zaliczone kolokwia LaTeX oraz MatLab.
+- Zaliczone oba kolokwia LaTeX oraz MatLab.
 
 ## Kolokwia
 
