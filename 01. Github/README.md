@@ -11,7 +11,6 @@
 7. Podczas tworzenia wybierz licencje MIT, zainicjalizuj repozytorium plikiem README.md,
 8. Załóż folder na dysku „D” w nim będziesz przechowywać swoje projekty i repozytoria,
 9. Uruchom z menu start ‘git Bash’, w konsoli przejdź do twojego folderu
-
    ```
    cd /d
    cd /mojfolder
@@ -63,12 +62,12 @@
 
 1. Przerób interaktywny tutorial na [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1). Zwróć szczególną uwagę na to jak kolejne komity tworzą pewne punkty w historii projektu. Ważne polecenia: git branch, git checkout, git reset, git revert, git merge, git fetch, git pull.
 2. Pytania kontrolne:
-   1. Czym się różni branch od checkout?
-   2. Czym się różni reset od revert?
-   3. W jaki sposób mogę przenieść się do danego commita?
-   4. W jaki sposób mogę przełączyć się na inną gałąź kodu?
-   5. W jaki sposób mogę scalić zmiany?
-   6. Czym się różni fetch od pull?
+   - Czym się różni branch od checkout?
+   - Czym się różni reset od revert?
+   - W jaki sposób mogę przenieść się do danego commita?
+   - W jaki sposób mogę przełączyć się na inną gałąź kodu?
+   - W jaki sposób mogę scalić zmiany?
+   - Czym się różni fetch od pull?
 3. W swoim repozytorium stwrórz nową gałąź ‘dev’, przejdź do niej. Wydaj odpowiednie polecenia z konsoli.
 4. Dodaj dwie zmiany w plikach w gałęzi ‘dev’
 1. Zmień linię 1 w pliku README.md, dodaj jakiś wyraz na końcu
@@ -86,12 +85,12 @@
 5. Zobacz na stronie github, co zostało zmienione w twoim projekcie.
 6. Ściągnij zmiany poczynione przez twojego współpracownika, do siebie na lokalny komputer (git pull)
 7. Rozpocznijcie pracę nad jednym ustalonym projektem.
-   1. Niech każdy z was doda dwa pliki
-   2. Niech każdy z was dokona zmian w plikach projektu
-   3. Niech każdy z was zrobi min. 4 commity
-   4. Ściągnij zmiany zrobione przez współpracownika,
+   - Niech każdy z was doda dwa pliki
+   - Niech każdy z was dokona zmian w plikach projektu
+   - Niech każdy z was zrobi min. 4 commity
+   - Ściągnij zmiany zrobione przez współpracownika,
 **Uwaga! Mogą nastąpić konfilikty, które będziecie musieli rozwiązać poprzez edycję plików, następnie należy wykonać git commit**
-   5. Wypchnijcie swoje zmiany na serwer
+   - Wypchnijcie swoje zmiany na serwer
 8. Niech każdy z was utworzy swoją gałąź
 1. Dokona w niej zmian (wyedytujcie pliki)
 2. Zakomituje zmiany i wypchnie na serwer (commit i push)
